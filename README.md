@@ -1,15 +1,15 @@
-# (keytree-project) a Github user finder
+# Github user finder
 
 This is a small project for a Keytree's react interview that retrieves and displays the user main information, repositories and organisations in Github.
 
 ### Demo
 
-You can try online at [here](https://keytree-project.netlify.com)
+You can try it online at [here](https://keytree-project.netlify.com)
 
 ### Ho to run project on you local machine?
 
 Requires [Node.js  >=8.0.0](https://nodejs.org/) installed in your system.
-I recommend you to install [Yarn](https://yarnpkg.com/en/docs/install) to a fast, reliable and secure dependency management. But you can use *npm* as well.
+I recommend you to install [Yarn](https://yarnpkg.com/en/docs/install) for a fast, reliable and secure dependency management. But you can use *npm* as well.
 After the project has been cloned in your computer, install the dependencies and devDependencies and start the server.
 
 ```sh
@@ -31,3 +31,5 @@ To run tests...
 ```sh
 $ yarn test
 ```
+
+If you get a message that test are already passed from last commit, press 'a' to run them again.
