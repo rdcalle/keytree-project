@@ -1,0 +1,33 @@
+.ant-layout {
+  min-height: 100vh;
+
+  .ant-layout-header {
+    height: auto;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+
+    .ant-menu-item {
+      padding-top: .5rem;
+    }
+  }
+
+  .ant-layout-content {
+    padding: 0 50px;
+    margin-top: 64px;
+  }
+
+  .ant-layout-footer {
+    text-align: center;
+  }
+}
+
+
+.ant-input-search {
+  margin: 1rem 0;
+}
+
+.logo {
+  margin-top: -.65rem;
+  width: 90px;
+}
